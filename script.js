@@ -6,7 +6,7 @@ const caixaPrincipal = document.querySelector('texto-resultado');
 
 const alternativas = [
 {
-    enunciado: No âmbito social, você prefere:,
+    enunciado: "No âmbito social, você prefere:",
     alternativa: [
         {
             texto: "Altrnativa 1",
@@ -20,7 +20,7 @@ const alternativas = [
 },
 
 {
-    enunciado: No âmbito ambiental, você prefere:,
+    enunciado: "No âmbito ambiental, você prefere:",
     alternativa: [
         {
             texto: "Altrnativa 3",
@@ -34,7 +34,7 @@ const alternativas = [
 },
 
 {
-    enunciado: No âmbito tecnológico, você prefere:,
+    enunciado:" No âmbito tecnológico, você prefere:",
     alternativa: [
         {
             texto: "Altrnativa 5",
@@ -46,5 +46,5 @@ const alternativas = [
         },
     ]
 },
-
 ]
+
