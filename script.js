@@ -48,3 +48,10 @@ const alternativas = [
     },
 ]
 
+let atual = 0;
+let perguntaAtual;
+
+function mostraPerguntas (){
+    perguntaAtual = alternativas[atual];
+    caixaPerguntas.textContent = 
+}
