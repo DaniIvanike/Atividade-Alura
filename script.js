@@ -9,12 +9,12 @@ const alternativas = [
         enunciado: "No âmbito social, você prefere:",
         alternativa: [
             {
-                texto: "Altenativa 1",
-                afirmacao: "Afirmação 1",
+                texto: "Ser a pessoa mais inteligente do mundo, mas todas vez que você usufruir de sua inteligência você perderá um pouco de sua beleza",
+                afirmacao: "Você deixará de ser bonito(a), mas será a mais inteligênte de todas",
             },
             {
-                texto: "Altenativa 2",
-                afirmacao: "Afirmação 2",
+                texto: "Ser o maior influencer do mundo, mas você perderá todas as suas amizades e familiares",
+                afirmacao: " Você será muito solitário, mesmo que muito conhecido.",
             },
         ]
     },
@@ -22,12 +22,12 @@ const alternativas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativa: [
             {
-                texto: "Altenativa 3",
-                afirmacao: "Afirmação 3",
+                texto: " Deixar de atropelar um cachorro, mas isso custará a vida de seus filhos",
+                afirmacao: "Você perderá seus filhos mas salvará um cachorro",
             },
             {
-                texto: "Altenativa 4",
-                afirmacao: "Afirmação 4",
+                texto: "Acabar com o aquecimento global, mas isso custará toda a vida humana",
+                afirmacao: "Os seres humanos deixaram de existir, mas o mundo será mais saudável",
             },
         ]
     },
@@ -35,12 +35,12 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "Altenativa 5",
-                afirmacao: "Afirmação 5",
+                texto: "Ser a pessoa mais feliz do mundo, mas jamais poderá usar nada tecnológico",
+                afirmacao: "Ser feliz, mas nunca usará a tecnologia",
             },
             {
-                texto: "Altenativa 6",
-                afirmacao: "Afirmação 6",
+                texto: "Ter a maior empresa tecnológica do mundo, mas todos os animais serão substituídos por animais robôs",
+                afirmacao: "Você tem a maior empresa do mundo, mas isso custou a vida de todos os animais",
             },
         ]
     },
